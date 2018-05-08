@@ -1,7 +1,7 @@
 How do you add a readme?
 
 
-**Findings:
+*** Findings:
 
 - Code in `/client` are bundled up no matter if they are being used or not. e.g `notImportedAnywhere.js` will be bundled and parsed even if there are no instances of
 ```
